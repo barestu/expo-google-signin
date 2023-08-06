@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "593913229933",
+    "project_id": "test--signin-c6978",
+    "storage_bucket": "test--signin-c6978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593913229933:android:7d3257eb0c2c19135b4564",
+        "android_client_info": {
+          "package_name": "com.barestu.expogooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593913229933-bgkn314a68ve73o4v6eph9g9ei3hlfqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barestu.expogooglesignin",
+            "certificate_hash": "aa2769a8289b128fccd0ad181c088b0a1f4ee855"
+          }
+        },
+        {
+          "client_id": "593913229933-qsjd2eiibtk91e5gp3sjmathaeh1ojfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTj-7x527IvpPDWYkqvOIuo821hhhHSc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593913229933-qsjd2eiibtk91e5gp3sjmathaeh1ojfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593913229933-77n2bav32t65nt198a877733gp3fva6t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.barestu.expogooglesignin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
